@@ -1,4 +1,6 @@
-# node-rocket-seat
+# Learning about Node
+
+### Rocket Seat
 
 - Express
 - Nodemon
