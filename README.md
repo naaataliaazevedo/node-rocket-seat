@@ -1,8 +1,8 @@
 # node-rocket-seat
 
-Express
-Nodemon
-eslint
-editorconfig
-Yarn
-Nunjucks
+- Express
+- Nodemon
+- eslint
+- editorconfig
+- Yarn
+- Nunjucks
